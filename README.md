@@ -1,4 +1,4 @@
-<img src="/frontend/src/assets/logo.svg" align-itens= "center">
+<img src="/frontend/src/assets/logo.svg" align="middle">
 
 ### Aplicação Be The Hero tem como objetivo auxiliar pessoas a encontrarem ONG's para ajudarem com doações e também auxiliar ONG's para que seja tenham mais visibilidade. A aplicação foi desenvolvida durante a Semana Omnistack 11 feita pela Rocketseat🚀.
 
@@ -34,10 +34,10 @@ $ npm install
 ```
 $ npm install npm@latest -g
 ```
-<img src="/Imagens/inicial">
-<img src="/Imagens/principal">
-<img src="/Imagens/login">
-<img src="/Imagens/caso">
+<img src="/Imagens/inicial.png">
+<img src="/Imagens/principal.png">
+<img src="/Imagens/login.png">
+<img src="/Imagens/caso.png">
 
 # Feito com ❤️ por Juarez Goulart
 
