@@ -28,7 +28,8 @@
   "devDependencies": {
     "babel-preset-expo": "~8.0.0",
     "@babel/core": "^7.0.0",
-    "logkitty": ">=0.7.1"
+    "logkitty": ">=0.7.1",
+    "mem": ">=4.0.0"
   },
   "private": true
 }
